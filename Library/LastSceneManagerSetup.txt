@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/BehaviorBricks/Samples/QuickStartGuide/InitialScene/InitialScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
